@@ -1,0 +1,12 @@
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Variables d'environnement / Secrets
+.env
+
+# Fichiers générés par Python et Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

@@ -1,0 +1,10 @@
+mcp
+anthropic
+google-genai
+smolagents[mcp]
+python-dotenv
+nest_asyncio
+pydantic
+pandas
+ddgs
+transformers
