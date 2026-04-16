@@ -10,3 +10,5 @@ env/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+.idea/
+TP_MCP_Etudiants.ipynb
